@@ -1,8 +1,4 @@
-import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.PrintWriter;
-import java.util.Scanner;
+import java.io.*;
 import java.util.Stack;
 
 public class Ex1_1Ez {
